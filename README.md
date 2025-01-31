@@ -20,11 +20,11 @@ This is a static website built using **HTML, CSS, and JavaScript** for the **Par
 ## Installation & Usage
 1. Clone this repository:
    ```sh
-   git clone https://github.com/Tareq-Khalil/paradox-team-website.git
+   git clone https://github.com/Tareq-Khalil/ParTeam.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd paradox-team-website
+   cd Parteam
    ```
 3. Open the `index.html` file in your browser:
    ```sh
@@ -45,4 +45,4 @@ For any inquiries or suggestions, reach out to us via:
 - Twitter: [@paradoxteam](https://twitter.com/paradoxteam)
 - GitHub: [ParadoxTeam](https://github.com/paradoxteam),(https://github.com/Tareq-Khalil)
 
-for more projects please visit [Tareq Khalil](https://github.com/Tareq-Khalil) 😊
+for more projects please visit [Tareq Khalil](https://github.com/Tareq-Khalil)(tareqkhalil1415@gmail.com 😊
