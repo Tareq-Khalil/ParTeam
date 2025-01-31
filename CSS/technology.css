@@ -13,7 +13,7 @@ body {
 
 @media (min-width: 999px) {
     body {
-        background-image: url(../images/home/background-home-mobile.jpg);
+        background-image: url(../images/technology/ambitionsback2.png);
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
