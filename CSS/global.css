@@ -40,12 +40,15 @@ nav a {
   }
   
   .logo {
-    position:absolute;
-    width: 48px;
-    height: 48px;
-    left: 55px;
-    top: 62.75px;
+    position: absolute;
+    left: 24px;
+    top: 24px;
   }
+  
+  .logo img {
+    width: 240px;
+    height: 160px;
+}
   
   
   .nav-list {
